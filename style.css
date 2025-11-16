@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #029F6B;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.card {
+    display: block;
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    color: #029F6B;
+    font-size: 22px;
+    border-radius: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.exercise {
+    background: white;
+    color: #029F6B;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+button {
+    background: #029F6B;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+}

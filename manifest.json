@@ -1,0 +1,9 @@
+{
+    "name": "Treino Diário",
+    "short_name": "Treino",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#029F6B",
+    "theme_color": "#029F6B",
+    "icons": []
+}
